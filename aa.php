@@ -1,6 +1,6 @@
 <?php
 /**
- * @package    Haxor.Group
+ * @package    Haxorqt's
  * @copyright  Copyright (C) 2023 - 2024 Open Source Matters, Inc. All rights reserved.
  *
  */
