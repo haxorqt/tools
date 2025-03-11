@@ -28,7 +28,7 @@ $$ |  $$ |$$ |        $$ |         $$$$$$\ \$$$$$$  |      $$ | \_/ $$ |$$$$$$$$
  |                                                                                           |
  |  Tools: Priv8 Tools Perl Alfa Scan                                                        |
  |  By   : Haxorqt's                                                                            |
- |  License : Sex Team | Panteq Crews                                                              |
+ |  License : Sex Team | Idiot                                                              |
  |                                                                                           |
  |___________________________________________________________________________________________|                                                                                                     
 
