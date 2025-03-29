@@ -1,6 +1,6 @@
 halo ngentot klean
 ================
-pw : kontolin | manusiabiasa
+pw : manusiabiasa | kontolin
 
 file:
 spread.php
