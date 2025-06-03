@@ -1,6 +1,6 @@
 halo 
 ================
-pw : kontolin | qitty | memeg1337
+pw : kontolin | qitty | memeg1337 | anakngentot
 
 
 file:
@@ -8,3 +8,4 @@ file:
 - hehe.php
 - wb.php
 - hidden.php
+- ajinx.php
